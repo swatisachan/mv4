@@ -3,6 +3,11 @@
 <suite name="Failed suite [Suite1]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="test1(failed)">
     <classes>
+      <class name="sele1.sample.NewTest3">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- sele1.sample.NewTest3 -->
       <class name="sele1.sample.NewTest4">
         <methods>
           <include name="f"/>
