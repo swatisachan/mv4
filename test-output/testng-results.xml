@@ -1,25 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-05-05T11:46:51Z" name="Suite1" finished-at="2019-05-05T11:46:51Z" duration-ms="65">
+  <suite started-at="2019-05-05T12:17:41Z" name="Suite1" finished-at="2019-05-05T12:17:41Z" duration-ms="59">
     <groups>
     </groups>
-    <test started-at="2019-05-05T11:46:51Z" name="test1" finished-at="2019-05-05T11:46:51Z" duration-ms="65">
+    <test started-at="2019-05-05T12:17:41Z" name="test1" finished-at="2019-05-05T12:17:41Z" duration-ms="59">
       <class name="sele1.sample.NewTest">
-        <test-method signature="f()[pri:0, instance:sele1.sample.NewTest@117e949d]" started-at="2019-05-05T11:46:51Z" name="f" finished-at="2019-05-05T11:46:51Z" duration-ms="14" status="PASS">
+        <test-method signature="f()[pri:0, instance:sele1.sample.NewTest@6db9f5a4]" started-at="2019-05-05T12:17:41Z" name="f" finished-at="2019-05-05T12:17:41Z" duration-ms="13" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
       </class> <!-- sele1.sample.NewTest -->
+      <class name="sele1.sample.NewTest3">
+        <test-method signature="f()[pri:0, instance:sele1.sample.NewTest3@7a675056]" started-at="2019-05-05T12:17:41Z" name="f" finished-at="2019-05-05T12:17:41Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- sele1.sample.NewTest3 -->
       <class name="sele1.sample.NewTest2">
-        <test-method signature="f()[pri:0, instance:sele1.sample.NewTest2@3c0be339]" started-at="2019-05-05T11:46:51Z" name="f" finished-at="2019-05-05T11:46:51Z" duration-ms="5" status="PASS">
+        <test-method signature="f()[pri:0, instance:sele1.sample.NewTest2@15ca7889]" started-at="2019-05-05T12:17:41Z" name="f" finished-at="2019-05-05T12:17:41Z" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
       </class> <!-- sele1.sample.NewTest2 -->
       <class name="sele1.sample.NewTest1">
-        <test-method signature="f()[pri:0, instance:sele1.sample.NewTest1@1ebd319f]" started-at="2019-05-05T11:46:51Z" name="f" finished-at="2019-05-05T11:46:51Z" duration-ms="2" status="PASS">
+        <test-method signature="f()[pri:0, instance:sele1.sample.NewTest1@3c0be339]" started-at="2019-05-05T12:17:41Z" name="f" finished-at="2019-05-05T12:17:41Z" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
