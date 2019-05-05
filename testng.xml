@@ -11,6 +11,7 @@
        <class name="sele1.sample.NewTest1"/>
       <class name="sele1.sample.NewTest2"/>
       <class name="sele1.sample.NewTest3"/>
+       <class name="sele1.sample.NewTest4"/>
       </classes>
    </test>
 </suite>
